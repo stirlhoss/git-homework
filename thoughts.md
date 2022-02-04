@@ -8,3 +8,8 @@
 
 # Shoutout
 + I had an interesting back and forth with Sarah Melton that forced me to look up some documentation that was new to me.
+
+# Session 3 breakout room
++ I just need to add some new thoughts.
+	+ When cream goes sour, we throw it away. Then we go to the store and buy sour cream?
+
